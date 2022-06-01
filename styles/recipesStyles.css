@@ -1,0 +1,28 @@
+body {
+    background-color: cadetblue;
+}
+.titles {
+    font-family: Helvetica, sans-serif;
+}
+.ingredients .steps {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+p {
+    font-family: sans-serif, Verdana;
+}
+.lasagna-image {
+    width: 400px;
+    height: auto;
+    border: 1px solid midnightblue;
+}
+.salmon-image {
+    width: 400px;
+    height: auto;
+    border: 1px solid midnightblue;
+}
+.chicken-image {
+    width: 400px;
+    height: auto;
+    border: 1px solid midnightblue;
+}

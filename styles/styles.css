@@ -1,0 +1,30 @@
+body {
+    background-color: cadetblue;
+    margin-left: 0;
+}
+.titles {
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+.nav-bar {
+    padding: 15px 15px 15px 15px;
+    display: flex;
+    background-color: midnightblue;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    
+}
+.links {
+    text-decoration: none;
+    list-style-type: none;
+    color: whitesmoke;
+    text-align: center;
+    padding: 15px;
+
+}
+.links:hover {
+    background-color: whitesmoke;
+    color: midnightblue;
+    border-radius: 20%;
+}
